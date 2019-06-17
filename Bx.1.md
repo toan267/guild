@@ -2,12 +2,15 @@
 # Bitrix code
 Sao không save được nhỉ 
 ```mermaid
-sequenceDia
+sequenceDiagram
+Participant A as Auto
+participant B as Bitrix
+A->>B:Hello
+
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk0ODA3NjIsLTE2MDM3NTgwOTJdfQ
-==
+eyJoaXN0b3J5IjpbLTQ0ODYzMDQ0NSwtMTYwMzc1ODA5Ml19
 -->
